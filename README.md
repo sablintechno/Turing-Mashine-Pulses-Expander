@@ -12,3 +12,7 @@ BOM:
 - 11 x [Thonkiconn](https://www.thonk.co.uk/shop/thonkiconn-3-5mm-jack-sockets-x50/) sockets
 - 1 x 16 Pin Header 2x8 (for example 649-67997-216HLF from Mouser)
 - 1 x Ribbon cable (16 Pin)
+
+![side](https://github.com/sablintechno/Turing-Mashine-Pulses-Expander/blob/main/Produktbilder-side-new.jpg)
+![front](https://github.com/sablintechno/Turing-Mashine-Pulses-Expander/blob/main/Produktbilder-front-new.jpg)
+![back](https://github.com/sablintechno/Turing-Mashine-Pulses-Expander/blob/main/Produktbilder-back-new.jpg)
